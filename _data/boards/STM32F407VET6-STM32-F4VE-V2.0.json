@@ -264,7 +264,7 @@
                 { "number": 3,  "name": "3V3",  "function": null, "to": "3V3" },
                 { "number": 4,  "name": "3V3",  "function": null, "to": "3V3" },
                 { "number": 5,  "name": "BT0",  "function": null, "to": "BOOT0" },
-                { "number": 6,  "name": "BT1",  "function": null, "to": "PE2" },
+                { "number": 6,  "name": "BT1",  "function": null, "to": "PB2" },
                 { "number": 7,  "name": "GND",  "function": null, "to": "GND" },
                 { "number": 8,  "name": "GND",  "function": null, "to": "GND" },
                 { "number": 9,  "name": "GND",  "function": null, "to": "GND" },
