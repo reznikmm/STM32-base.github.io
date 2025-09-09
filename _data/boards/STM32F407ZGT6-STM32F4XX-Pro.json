@@ -392,7 +392,7 @@
                 { "number": 11, "name": null, "function": null, "to": "PC9" },
                 { "number": 12, "name": null, "function": null, "to": "PC11" },
                 { "number": 13, "name": null, "function": null, "to": "PB6" },
-                { "number": 14, "name": null, "function": null, "to": "PE3" },
+                { "number": 14, "name": null, "function": null, "to": "PE5" },
                 { "number": 15, "name": null, "function": null, "to": "PA6" },
                 { "number": 16, "name": null, "function": null, "to": "PE6" },
                 { "number": 17, "name": null, "function": null, "to": "PA8" },
